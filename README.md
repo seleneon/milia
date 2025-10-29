@@ -1,1 +1,1 @@
-
+Simple static page
